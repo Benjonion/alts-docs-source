@@ -8,9 +8,8 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath(os.path.join('./','alts-core','alts')))
-sys.path.insert(0, os.path.abspath(os.path.join('./','alts-modules','alts')))
-print(os.path)
+sys.path.insert(0, os.path.abspath(os.path.join('alts-core','alts','core')))
+sys.path.insert(0, os.path.abspath(os.path.join('alts-modules','alts','modules')))
 
 project = 'ALTS-Documentation'
 copyright = '2024, Benjamin Gors'
