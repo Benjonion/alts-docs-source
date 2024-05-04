@@ -1,7 +1,7 @@
 Data Sampler (Core)
 ----------------------------------------------
 
-.. automodule:: alts-core.alts.core.data.data_sampler
+.. automodule:: alts.core.data.data_sampler
    :members:
    :undoc-members:
    :show-inheritance:

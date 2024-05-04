@@ -1,7 +1,7 @@
 Experiment (Core)
 --------------------------------------
 
-.. automodule:: alts-core.alts.core.experiment
+.. automodule:: alts.core.experiment
    :members:
    :undoc-members:
    :show-inheritance:

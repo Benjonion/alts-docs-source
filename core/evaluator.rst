@@ -1,7 +1,7 @@
 Evaluator (Core)
 -------------------------------------
 
-.. automodule:: alts-core.alts.core.evaluator
+.. automodule:: alts.core.evaluator
    :members:
    :undoc-members:
    :show-inheritance:

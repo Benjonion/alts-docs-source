@@ -1,7 +1,7 @@
 Augmentation (Core)
 -----------------------------------------------
 
-.. automodule:: alts-core.alts.core.oracle.augmentation
+.. automodule:: alts.core.oracle.augmentation
    :members:
    :undoc-members:
    :show-inheritance:

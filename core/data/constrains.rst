@@ -1,7 +1,7 @@
 Constraints (Core)
 -------------------------------------------
 
-.. automodule:: alts-core.alts.core.data.constraints
+.. automodule:: alts.core.data.constrains
    :members:
    :undoc-members:
    :show-inheritance:

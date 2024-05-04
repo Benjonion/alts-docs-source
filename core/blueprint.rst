@@ -1,7 +1,7 @@
 Blueprint (Core)
 -------------------------------------
 
-.. automodule:: alts-core.alts.core.blueprint
+.. automodule:: alts.core.blueprint
    :members:
    :undoc-members:
    :show-inheritance:

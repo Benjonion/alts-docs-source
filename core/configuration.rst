@@ -1,7 +1,7 @@
 Configuration (Core)
 -----------------------------------------
 
-.. automodule:: alts-core.alts.core.configuration
+.. automodule:: alts.core.configuration
    :members:
    :undoc-members:
    :show-inheritance:

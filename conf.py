@@ -8,10 +8,8 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath(os.path.join('..','..','code-src','alts-core')))
-sys.path.insert(0, os.path.abspath(os.path.join('..','..','code-src','alts-modules')))
-import alts.core
-import alts.modules
+sys.path.insert(0, os.path.abspath(os.path.join('..','..','code-src','alts-core','alts')))
+sys.path.insert(0, os.path.abspath(os.path.join('..','..','code-src','alts-modules','alts')))
 
 project = 'ALTS-Documentation'
 copyright = '2024, Benjamin Gors'
@@ -28,7 +26,8 @@ extensions = ['sphinx.ext.autodoc',
               ]
 
 templates_path = ['_templates']
-exclude_patterns = ['**/tests']
+exclude_patterns = ['**/tests/',
+                    '.venv/']
 
 
 # -- Options for HTML output -------------------------------------------------

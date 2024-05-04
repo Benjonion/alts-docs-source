@@ -1,7 +1,7 @@
 Evaluator (Implementation)
 -------------------------------------------
 
-.. automodule:: alts-modules.alts.modules.evaluator
+.. automodule:: alts.modules.evaluator
    :members:
    :undoc-members:
    :show-inheritance:

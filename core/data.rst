@@ -5,7 +5,7 @@ Data Package Modules (Core)
    :maxdepth: 2
    :titlesonly:
 
-   data/constraints
+   data/constrains
    data/data_sampler
    data/data_pools
    data/queried_data_pool
