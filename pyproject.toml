@@ -4,12 +4,14 @@ version = "0.1.0"
 description = "Sphinx code for documentation of ALTS project"
 authors = ["Benjamin Gors <benjamin.gorskis@gmail.com>"]
 readme = "README.md"
-package-mode = false
-
+packages = [
+    { include = "alts/core", from = "alts-core" },
+    { include = "alts/modules", from = "alts-modules" }
+]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.10"
-alts-core = {git = "https://github.com/bela127/alts-core.git"}
-alts-modules = {git = "https://github.com/bela127/alts-modules.git"}
+#alts-core = {git = "https://github.com/bela127/alts-core.git"}
+#alts-modules = {git = "https://github.com/bela127/alts-modules.git"}
 
 [tool.poetry.dev-dependencies]
 sphinx = ">=7.3.7"
