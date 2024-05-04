@@ -24,9 +24,6 @@ python:
   install:
     - method: pip
       path: .
-      extra_requirements:
-        - git+https://github.com/bela127/alts-core.git#egg=alts-core
-        - git+https://github.com/bela127/alts-modules.git#egg=alts-modules
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
