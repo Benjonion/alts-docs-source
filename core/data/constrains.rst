@@ -1,4 +1,4 @@
-Constraints (Core)
+Constrains (Core)
 -------------------------------------------
 
 .. automodule:: alts.core.data.constrains
