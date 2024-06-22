@@ -1,9 +1,12 @@
 [submodule "alts-core"]
 	path = alts-core
 	url = https://github.com/bela127/alts-core
+	branch = dev
 [submodule "alts-modules"]
 	path = alts-modules
 	url = https://github.com/bela127/alts-modules
+	branch = dev
 [submodule "alts-experiments"]
 	path = alts-experiments
 	url = https://github.com/bela127/alts-experiments
+	branch = dev
