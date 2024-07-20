@@ -19,8 +19,8 @@ WIP ALTS Documentation
 
    Query Decider (Core) </core/query/query_decider>
    Query Decider (Modules) </modules/query/query_decider>
-   Selection Criteria (Core) </core/query/selection_criterie>
-   Selection Criteria (Modules) </modules/query/selection_criterie>
+   Selection Criteria (Core) </core/query/selection_criteria>
+   Selection Criteria (Modules) </modules/query/selection_criteria>
 
 .. toctree::
    :maxdepth: 1
