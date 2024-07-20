@@ -9,7 +9,7 @@ WIP ALTS Documentation
    :maxdepth: 1
 
    Data Source (Core) [100%] </core/oracle/data_source>
-   Data Source (Modules) [80%] </modules/oracle/data_Source>
+   Data Source (Modules) [80%] </modules/oracle/data_source>
    Interpolation Strategy (Core) [100%] </core/oracle/interpolation_strategy>
    Constrains (Core) [90%] </core/data/constrains>
    Data Pools (core) [30%] </core/data/data_pools> 
