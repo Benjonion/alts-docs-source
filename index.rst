@@ -24,8 +24,8 @@ WIP ALTS Documentation
 
 
 
-Full ALTS Documentation
-=======================
+Undocumented ALTS Modules
+=========================
 
 .. toctree::
    :maxdepth: 2
