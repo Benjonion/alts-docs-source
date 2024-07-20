@@ -3,13 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ALTS Documentation
-==================
+WIP ALTS Documentation
+======================
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+
+   :doc:`Data Source(Core) [100%] </core/oracle/data_source>`
+
+Full ALTS Documentation
+=======================
 
 .. toctree::
    :maxdepth: 2
    :titlesonly:
-   :caption: Table of Contents
    
    core
    modules
