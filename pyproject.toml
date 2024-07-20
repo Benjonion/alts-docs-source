@@ -15,7 +15,7 @@ nptyping = ">=2.0.0a1"
 matplotlib = "^3.6.3"
 scikit-learn = "^1.2.0"
 paramz = {git = "https://github.com/bela127/paramz.git"}
-GPy = {git = "https://github.com/SheffieldML/GPy"}
+GPy = {git = "https://github.com/SheffieldML/GPy.git"}
 
 [tool.poetry.dev-dependencies]
 sphinx = ">=7.3.7"
