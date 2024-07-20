@@ -8,11 +8,19 @@ WIP ALTS Documentation
 .. toctree::
    :maxdepth: 1
 
-   Data Source (Core) [100%] </core/oracle/data_source>
-   Data Source (Modules) [80%] </modules/oracle/data_source>
-   Interpolation Strategy (Core) [100%] </core/oracle/interpolation_strategy>
    Constrains (Core) [90%] </core/data/constrains>
-   Data Pools (core) [30%] </core/data/data_pools> 
+   Data Pools (Core) [30%] </core/data/data_pools> 
+
+   Data Source (Core) </core/oracle/data_source>
+   Data Source (Modules) [80%] </modules/oracle/data_source>
+   Interpolation Strategy (Core) </core/oracle/interpolation_strategy>
+   Augmentation (Core) </core/oracle/augmentation>
+   Augmentation (Modules) </modules/oracle/augmentation>
+
+   Query Decider (Core) </core/query/query_decider>
+   Query Decider (Modules) </modules/query/query_decider>
+   Selection Criteria (Core) </core/query/selection_criterie>
+   Selection Criteria (Modules) </modules/query/selection_criterie>
 
 .. toctree::
    :maxdepth: 1
@@ -23,7 +31,6 @@ WIP ALTS Documentation
    Data Process (Core) [0%] </core/data_process/process>
    Time Source (Core) [0%] </core/data_process/time_source>
    Estimator (Core) [0%] </core/estimator>
-   Augmentation (Core) [0%] </core/oracle/augmentation>
    Data Behavior (Core) [0%] </core/oracle/data_behavior>
    Oracles (Core) [0%] </core/oracle/oracles>
    Query Queue (Core) [0%] </core/oracle/query_queue>
