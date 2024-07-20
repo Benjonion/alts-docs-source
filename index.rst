@@ -7,9 +7,8 @@ WIP ALTS Documentation
 ======================
 .. toctree::
    :maxdepth: 1
-   :titlesonly:
 
-   :doc:`Data Source(Core) [100%] </core/oracle/data_source>`
+   :doc:`Data Source(Core) [100%] </core/oracle/data_source>`_
 
 Full ALTS Documentation
 =======================
