@@ -9,7 +9,7 @@ WIP ALTS Documentation
    :maxdepth: 1
 
    Constrains (Core) [90%] </core/data/constrains>
-   Data Pools (Core) [30%] </core/data/data_pools> 
+   Data Pools (Core) [20%] </core/data/data_pools> 
 
    Data Source (Core) </core/oracle/data_source>
    Data Source (Modules) [80%] </modules/oracle/data_source>
