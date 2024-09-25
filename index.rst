@@ -8,11 +8,14 @@ WIP ALTS Documentation
 .. toctree::
    :maxdepth: 1
 
-   Constrains (Core) [90%] </core/data/constrains>
-   Data Pools (Core) [20%] </core/data/data_pools> 
+   Constrains (Core) </core/data/constrains>
+   Data Pools (Core) [60%] </core/data/data_pools> 
+   Data Sampler (Core) [30%] </core/data/data_sampler> 
+   Queried Data Pool (Core) [80%] </core/data/queried_data_pool> 
 
    Data Source (Core) </core/oracle/data_source>
    Data Source (Modules) [80%] </modules/oracle/data_source>
+   Query Queue (Core) [90%] </core/oracle/query_queue>
    Interpolation Strategy (Core) </core/oracle/interpolation_strategy>
    Augmentation (Core) </core/oracle/augmentation>
    Augmentation (Modules) </modules/oracle/augmentation>
@@ -21,6 +24,8 @@ WIP ALTS Documentation
    Query Decider (Modules) </modules/query/query_decider>
    Selection Criteria (Core) </core/query/selection_criteria>
    Selection Criteria (Modules) </modules/query/selection_criteria>
+
+   Stopping Criteria [70%] </core/stopping_criteria>
 
 
 
