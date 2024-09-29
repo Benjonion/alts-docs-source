@@ -5,4 +5,4 @@ Constrains (Core)
    :synopsis: Constrains dimensions and values of queries and results.
 
    .. autoclass:: QueryConstrain
-      :members:
+      :members: matches_shape
