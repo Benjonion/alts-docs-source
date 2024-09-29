@@ -38,7 +38,9 @@ html_theme_options = {
     "navigation_with_keys" : True,
     "sidebarwidth" : 350,
     "body_max_width" : "none",
-    "collapsiblesidebar" : True
+    "collapsiblesidebar" : True,
+    "headbgcolor" : "HotPink",
+    "codebgcolor" : "PaleGoldenRod"
 }
 html_static_path = ['_static']
 html_css_files = ['css/functions.css']
