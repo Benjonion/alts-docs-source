@@ -1,9 +1,8 @@
 Constrains (Core)
 -------------------------------------------
 
-.. py:module:: constrains
+.. py:module:: alts.core.data.constrains
    :synopsis: Constrains dimensions and values of queries and results.
-   :canonical: alts.core.data.constrains
 
    .. autoclass:: QueryConstrain
       :members:
