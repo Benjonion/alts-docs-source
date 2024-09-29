@@ -33,7 +33,7 @@ exclude_patterns = ['**/tests/',
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'insegel'
 html_theme_options = {
     "navigation_with_keys" : True,
     "sidebarwidth" : 350,
