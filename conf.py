@@ -30,6 +30,10 @@ exclude_patterns = ['**/tests/',
                     '.venv/']
 
 add_module_names = False
+toc_object_entried_show_parents = "hide"
+autodoc_default_options = {
+    
+}
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
