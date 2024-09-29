@@ -29,7 +29,7 @@ templates_path = ['_templates']
 exclude_patterns = ['**/tests/',
                     '.venv/']
 
-
+add_module_names = False
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
@@ -41,7 +41,7 @@ html_theme_options = {
     "collapsiblesidebar" : True,
     "headbgcolor" : "Aquamarine",
     "codebgcolor" : "PaleGoldenRod",
-    "add_module_names" : False
+
 }
 html_static_path = ['_static']
 html_css_files = ['css/functions.css']
