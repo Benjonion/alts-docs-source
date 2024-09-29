@@ -39,7 +39,7 @@ html_theme_options = {
     "sidebarwidth" : 350,
     "body_max_width" : "none",
     "collapsiblesidebar" : True,
-    "headbgcolor" : "HotPink",
+    "headbgcolor" : "Aquamarine",
     "codebgcolor" : "PaleGoldenRod"
 }
 html_static_path = ['_static']
