@@ -40,7 +40,8 @@ html_theme_options = {
     "body_max_width" : "none",
     "collapsiblesidebar" : True,
     "headbgcolor" : "Aquamarine",
-    "codebgcolor" : "PaleGoldenRod"
+    "codebgcolor" : "PaleGoldenRod",
+    "add_module_names" : False
 }
 html_static_path = ['_static']
 html_css_files = ['css/functions.css']
