@@ -1,4 +1,7 @@
 Version 1.1:
-    Signature
-    Basic Description
-    Explanation of arguments/returns
+    Link to relevant Core/Module documentation
+    Per class/function:
+        Signature
+        Basic Description
+        All mentions of other classes linked
+        Explanation of arguments/returns
