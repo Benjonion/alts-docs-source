@@ -1,0 +1,21 @@
+DOM Acronym:
+    The DOM (Documentation Of Modules) version describes the current standards of the documentation inside a module.
+    An overview over the versions can be found here (TODO insert link)
+
+SOUT Acronym:
+    The SOUT (Strucutre Of Unit Tests) version describes the current standards of testing of a module.
+    A module with DOM X and SOUT Y has structure and functionality as described in SOUT Y, and documented as described in DOM X. 
+
+query NDArray, result NDArray:
+    A query is an input which has a corresponding output (result).
+    The first entry of an query/result is always the query number (query_nr). A query and its corresponding result always have matching query_nr.
+    If the task is to recognize objects, then a picture of an apple would be a query with "apple" being the result.
+
+queries NDArray[NDArray], results NDArray[NDArray]:
+    A one dimensional NDArray containing multiple queries/results
+
+data_point Tuple[query, result]:
+    A tuple of a query and its corresponding result.
+
+data_points Tuple[queries, results]:
+    A tuple of multiple queries and their corresponding results
