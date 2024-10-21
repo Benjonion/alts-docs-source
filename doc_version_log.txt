@@ -1,7 +1,17 @@
+This log is planned to be put into documentation.
+
+Version 1.0.X with X>0 denotes that the module has limited features of version 1.1.0 and still contains all features of version 1.0.0 .
+
+Documentation Of Modules (DOM)
+------------------------------
+Version 1.0:
+    Per class/function:
+        Basic Description
+
 Version 1.1:
     Link to relevant Core/Module documentation
     Per class/function:
         Signature
-        Basic Description
+        Basic description
         All mentions of other classes linked
         Explanation of arguments/returns

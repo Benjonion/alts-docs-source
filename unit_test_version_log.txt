@@ -1,0 +1,18 @@
+This log is planned to be put into documentation.
+
+Version 1.0.X with X>0 denotes that the module has limited features of version 1.1.0 and still contains all features of version 1.0.0 .
+
+Structure Of Unit Tests (SOUT)
+---------------------------------
+Version 1.0:
+    Per test:
+        Basic description of purpose and pass condition
+
+Version 1.1:
+    Reference and Link to current DOM version 
+    Per Module:
+        All class/function parameters must have been tested at least 2 times.
+        Each function is tested for correct function:
+            Determinism (unless random) (T1)
+            Correct behaviour in 3 normal cases (T2)
+            Correct behaviour in selected special cases (T3)
