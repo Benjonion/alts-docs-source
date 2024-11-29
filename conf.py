@@ -15,7 +15,6 @@ project = 'ALTS'
 copyright = '2024, Benjamin Gors'
 author = 'Benjamin Gors'
 version = '0.3'
-#release = '0.3'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
