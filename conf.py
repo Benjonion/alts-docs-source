@@ -40,7 +40,7 @@ autodoc_default_options = {
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "sphinx_book_theme"
-html_title = "The Active Learning Test Suite"
+html_title = "ALTS - The Active Learning Test Suite"
 html_theme_options = {
     "repository_url": "https://github.com/bela127/alts-core}",
     "use_repository_button": True,
