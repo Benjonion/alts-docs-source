@@ -44,6 +44,9 @@ html_title = "ALTS - The Active Learning Test Suite"
 html_theme_options = {
     "repository_url": "https://github.com/bela127/alts-core",
     "use_repository_button": True,
+    "use_source_button": True,
+    "use_edit_page_button": True,
+    "use_issues_button": True,
 }
 """
 "navigation_with_keys" : True,
