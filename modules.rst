@@ -1,5 +1,5 @@
-Module Implementations
-======================
+Module Implementations [40%]
+============================
 
 .. toctree::
    :maxdepth: 2

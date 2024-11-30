@@ -1,4 +1,4 @@
-Data Sampler (Implementation)
+Data Sampler (Implementation) [0%]
 -----------------------------------------------
 
 .. automodule:: alts.modules.data_sampler

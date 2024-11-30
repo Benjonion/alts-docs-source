@@ -1,4 +1,4 @@
-Query (Implementation)
+Query (Implementation) [60%]
 ==================================
 
 .. toctree::

@@ -1,4 +1,4 @@
-Query Optimizer (Implementation)
+Query Optimizer (Implementation) [70%]
 --------------------------------------------------
 
 .. automodule:: alts.modules.query.query_optimizer

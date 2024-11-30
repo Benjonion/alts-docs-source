@@ -1,4 +1,4 @@
-Subscribable (Core)
+Subscribable (Core) [0%]
 ----------------------------------------
 
 .. automodule:: alts.core.subscribable

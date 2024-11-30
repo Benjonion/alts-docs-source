@@ -1,4 +1,4 @@
-Subscriber (Core)
+Subscriber (Core) [10%]
 --------------------------------------
 .. automodule:: alts.core.subscriber
    :members:
