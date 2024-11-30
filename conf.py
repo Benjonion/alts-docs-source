@@ -44,17 +44,10 @@ html_title = "ALTS - The Active Learning Test Suite"
 html_theme_options = {
     "repository_url": "https://github.com/bela127/alts-core",
     "use_repository_button": True,
-    "use_source_button": True,
-    "use_edit_page_button": True,
+    #"use_source_button": True,
+    #"use_edit_page_button": True,
     "use_issues_button": True,
 }
-"""
-"navigation_with_keys" : True,
-"sidebarwidth" : 350,
-"body_max_width" : "none",
-"collapsiblesidebar" : True,
-"headbgcolor" : "Aquamarine",
-"codebgcolor" : "PaleGoldenRod",
-"""
+
 html_static_path = ['_static']
 html_css_files = ['css/functions.css']
