@@ -1,4 +1,4 @@
-Core Modules [60%]
+Core Modules [70%]
 ====================
 
 Bla bla short introduction
