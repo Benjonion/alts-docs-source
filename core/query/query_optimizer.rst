@@ -1,4 +1,4 @@
-Query Optimizer (Core) [0%]
+Query Optimizer (Core)
 --------------------------------------------------
 
 .. automodule:: alts.core.query.query_optimizer

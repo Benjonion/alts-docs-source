@@ -1,4 +1,4 @@
-Query Selector (Core) [0%]
+Query Selector (Core)
 -------------------------------------------------
 
 .. automodule:: alts.core.query.query_selector
