@@ -1,4 +1,4 @@
-Run From Path (Core) [0%]
+Run From Path (Core)
 -------------------------------------------
 
 .. automodule:: alts.core.run_from_path

@@ -1,4 +1,4 @@
-Experiment Runner (Core) [0%]
+Experiment Runner (Core)
 ----------------------------------------------
 
 .. automodule:: alts.core.experiment_runner

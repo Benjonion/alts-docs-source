@@ -1,4 +1,4 @@
-Blueprint (Core) [0%]
+Blueprint (Core)
 -------------------------------------
 
 .. automodule:: alts.core.blueprint
