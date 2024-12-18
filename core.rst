@@ -1,7 +1,5 @@
-Core Modules [85%]
+Core Modules [95%]
 ====================
-
-Bla bla short introduction
 
 .. toctree::
    :maxdepth: 2
@@ -25,5 +23,3 @@ Bla bla short introduction
    core/subscribable
    core/subscriber
 
-bla bla deeper explanation
-bla bla visual graphic

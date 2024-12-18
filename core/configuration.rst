@@ -1,4 +1,4 @@
-Configuration (Core) [75%]
+Configuration (Core)
 -----------------------------------------
 
 .. automodule:: alts.core.configuration

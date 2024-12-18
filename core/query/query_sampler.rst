@@ -1,4 +1,4 @@
-Query Sampler (Core) [0%]
+Query Sampler (Core)
 ------------------------------------------------
 
 .. automodule:: alts.core.query.query_sampler

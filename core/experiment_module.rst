@@ -1,4 +1,4 @@
-Experiment Module (Core) [0%]
+Experiment Module (Core)
 ----------------------------------------------
 
 .. automodule:: alts.core.experiment_module
