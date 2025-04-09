@@ -1,4 +1,4 @@
-Evaluator (Core) [50%]
+Evaluator (Core)
 -------------------------------------
 
 .. automodule:: alts.core.evaluator
