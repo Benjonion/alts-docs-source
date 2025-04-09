@@ -1,4 +1,4 @@
-Core Modules [95%]
+Core Modules
 ====================
 
 .. toctree::
