@@ -1,4 +1,4 @@
-Queried Data Pool (Implementation) [0%]
+Queried Data Pool (Implementation)
 -----------------------------------------------------
 
 .. automodule:: alts.modules.queried_data_pool
