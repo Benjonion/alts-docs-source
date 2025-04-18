@@ -1,4 +1,4 @@
-Query Queue (Implementation) [0%]
+Query Queue (Implementation)
 -----------------------------------------------
 
 .. automodule:: alts.modules.oracle.query_queue

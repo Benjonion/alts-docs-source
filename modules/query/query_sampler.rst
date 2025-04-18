@@ -1,4 +1,4 @@
-Query Sampler (Implementation) [0%]
+Query Sampler (Implementation) [60%]
 ------------------------------------------------
 
 .. automodule:: alts.modules.query.query_sampler
