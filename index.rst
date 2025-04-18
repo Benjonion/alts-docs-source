@@ -3,6 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+Release Notes:
+==============
+:doc:`See all release nots <./release_notes>` 
+
+* 0.7 18.04.2025
+   * Finished documentation of:
+      * All Core Modules 
+      * Data Sampler (Modules)
+      * Queried Data Pool (Modules)
+   * Advanced documentation of:
+      * Process (Modules)
+      * Query Sampler (Modules)
+      * Evaluator (Modules)
+
+
 ALTS Documentation [80%]
 =========================
 
