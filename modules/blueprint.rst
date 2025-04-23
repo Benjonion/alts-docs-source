@@ -1,4 +1,4 @@
-Blueprint (Implementation) [0%]
+Blueprint (Implementation)
 -------------------------------------------
 
 .. automodule:: alts.modules.blueprint

@@ -1,4 +1,4 @@
-Evaluator (Implementation) [95%]
+Evaluator (Implementation)
 -------------------------------------------
 
 .. automodule:: alts.modules.evaluator
