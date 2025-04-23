@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.abspath(os.path.join('alts-modules','alts','modules')
 project = 'ALTS'
 copyright = '2024, Benjamin Gors'
 author = 'Benjamin Gors'
-version = '0.3'
+version = '0.4'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
