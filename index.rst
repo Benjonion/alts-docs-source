@@ -6,7 +6,6 @@
 Release Notes:
 ==============
 :doc:`See all release notes <./release_notes>` 
-
 0.7 (18.04.2025)
 ----------------
 * Finished documentation of:
@@ -17,6 +16,7 @@ Release Notes:
    * Process (Modules)
    * Query Sampler (Modules)
    * Evaluator (Modules)
+
 
 
 ALTS Documentation [80%]
