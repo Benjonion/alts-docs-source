@@ -1,4 +1,4 @@
-Process (Implementation) [40%]
+Process (Implementation)
 -------------------------------------------------
 
 .. automodule:: alts.modules.data_process.process
