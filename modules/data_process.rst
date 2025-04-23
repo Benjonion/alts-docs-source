@@ -1,4 +1,4 @@
-Data Process (Implementation) [70%]
+Data Process (Implementation)
 ==========================================
 
 .. toctree::
