@@ -6,6 +6,7 @@
 Release Notes:
 ==============
 :doc:`See all release notes <./release_notes>` 
+
 0.7 (18.04.2025)
 ----------------
 * Finished documentation of:
