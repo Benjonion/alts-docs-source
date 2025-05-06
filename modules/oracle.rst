@@ -1,4 +1,4 @@
-Oracle Modules (Implementation) [70%]
+Oracle Modules (Implementation)
 =====================================
 
 .. toctree::

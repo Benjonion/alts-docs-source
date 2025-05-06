@@ -1,4 +1,4 @@
-Module Implementations [90%]
+Module Implementations
 ============================
 
 .. toctree::

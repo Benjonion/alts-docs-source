@@ -7,20 +7,15 @@ Release Notes:
 --------------
 :doc:`See all release notes <./release_notes>` 
 
-0.7 (18.04.2025)
+1.0 (06.05.2025)
 ----------------
-* Finished documentation of:
-   * All Core Modules 
-   * Data Sampler (Modules)
-   * Queried Data Pool (Modules)
-* Advanced documentation of:
-   * Process (Modules)
-   * Query Sampler (Modules)
-   * Evaluator (Modules)
+* Finished basic documentation of:
+    * All Core Modules 
+    * All Module Implementations
 
 
 
-ALTS Documentation [95%]
+ALTS Documentation
 =========================
 
 .. toctree::

@@ -1,4 +1,4 @@
-Data Source (Implementation) [80%]
+Data Source (Implementation)
 -----------------------------------------------
 
 .. automodule:: alts.modules.oracle.data_source
