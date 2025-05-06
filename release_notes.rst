@@ -1,5 +1,5 @@
-MajorRelease Notes
-------------------
+Major Release Notes
+-------------------
 1.0 (06.05.2025)
 ================
 * Finished basic documentation of:
