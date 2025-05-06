@@ -8,7 +8,7 @@ Release Notes:
 :doc:`See all release notes <./release_notes>` 
 
 1.0 (06.05.2025)
-----------------
+================
 * Finished basic documentation of:
     * All Core Modules 
     * All Module Implementations
@@ -16,7 +16,7 @@ Release Notes:
 
 
 ALTS Documentation
-=========================
+------------------
 
 .. toctree::
    :maxdepth: 2
