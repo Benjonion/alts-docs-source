@@ -8,7 +8,7 @@ Release Notes:
 :doc:`See all major release notes <./release_notes>` 
 
 1.0.1 (06.05.2025)
-================
+==================
 * Minor Bug-Fixes
 
 
