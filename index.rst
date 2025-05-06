@@ -5,13 +5,11 @@
 
 Release Notes:
 --------------
-:doc:`See all release notes <./release_notes>` 
+:doc:`See all major release notes <./release_notes>` 
 
-1.0 (06.05.2025)
+1.0.1 (06.05.2025)
 ================
-* Finished basic documentation of:
-    * All Core Modules 
-    * All Module Implementations
+* Minor Bug-Fixes
 
 
 
