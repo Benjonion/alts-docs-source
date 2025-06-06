@@ -1,5 +1,25 @@
 Major Release Notes
 -------------------
+1.1.0 (06.06.2025)
+==================
+* Corrected trigger_subscriber() documentation everywhere.
+* Corrected parameter list documentation everywhere.
+* Corrected determinism classifications of DataSource(Modules)
+* Reworked documentation of:
+   * InterpolationStrategy(Core)
+   * ExperimentModule(Core)
+   * Configuration(Core)
+* Small documentation changes and additions in:
+   * DataPools(Core)
+   * DataSampler(Core)
+   * Process(Core)
+   * TimeSource(Core)
+   * DataSource(Core)
+   * QuerySelector(Core)
+   * SelectionCriteria(Core)
+   * Evaluator(Core)
+   * Experiment(Core)
+
 1.0 (06.05.2025)
 ================
 * Finished basic documentation of:
